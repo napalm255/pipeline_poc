@@ -1,0 +1,11 @@
+roles/*
+build/*
+.vagrant/*
+.idea/*
+*.retry
+*.swp
+*.log
+*.parameters
+*.properties
+.env
+vault_password_file*
